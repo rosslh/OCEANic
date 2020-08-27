@@ -116,6 +116,11 @@ div.axis {
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-bottom: 48pt;
+}
+
+h2.axisHeading {
+    margin-bottom: 16pt;
 }
 div.bar {
     height: 36pt;
@@ -123,11 +128,7 @@ div.bar {
     padding: 8pt;
     margin-top: 4pt;
     margin-bottom: 4pt;
-    border-width: 4px;
-    border-right-width: 1px;
-    border-top-style: solid;
-    border-bottom-style: solid;
-    border-color: #222222;
+    border: 4px solid #222222;
     background-color: #eeeeee;
     display: block;
     width: 50%;
@@ -139,42 +140,52 @@ div.text-wrapper {
     color: #222222;
     display: inline-block;
 }
-div.equality {
+div.curious {
     background-color: #f44336;
     text-align: left;
     border-right-style: solid;
 }
-div.wealth {
+div.prudent {
     background-color: #00897b;
     text-align: right;
     border-left-style: solid;
 }
-div.liberty {
+div.organized {
     background-color: #ffeb3b;
     text-align: left;
     border-right-style: solid;
 }
-div.authority {
+div.carefree {
     background-color: #3f51b5;
     text-align: right;
     border-left-style: solid;
 }
-div.peace {
+div.outgoing {
     background-color: #03a9f4;
     text-align: right;
     border-left-style: solid;
 }
-div.might {
+div.reserved {
     background-color: #ff9800;
     text-align: left;
     border-right-style: solid;
 }
-div.progress {
+div.sympathetic {
     background-color: #9c27b0;
     text-align: right;
     border-left-style: solid;
 }
-div.tradition {
+div.competitive {
+    background-color: #8bc34a;
+    text-align: left;
+    border-right-style: solid;
+}
+div.sensitive {
+    background-color: #9c27b0;
+    text-align: right;
+    border-left-style: solid;
+}
+div.resilient {
     background-color: #8bc34a;
     text-align: left;
     border-right-style: solid;
@@ -191,4 +202,19 @@ span.weight-300 {
     margin: 8pt;
     margin-left: auto;
     margin-right: auto;
+}
+
+div.label {
+    height:56pt;
+    width: 380pt;
+    background-color: #444444cc;
+    border-radius: 8pt;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 26pt;
+    margin: 8pt;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
 }

@@ -1,632 +1,3002 @@
 questions = [
     {
-        "question": "Oppression by corporations is more of a concern than oppression by governments.",
+        "question": "Worry about things.",
         "effect": {
-            "econ": 10,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 1
         }
     },
     {
-        "question": "It is necessary for the government to intervene in the economy to protect consumers.",
+        "question": "Make friends easily.",
         "effect": {
-            "econ": 10,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 1,
+            "agreeableness": 0,
+            "neuroticism": 0
         }
     },
     {
-        "question": "The freer the markets, the freer the people.",
+        "question": "Have a vivid imagination.",
         "effect": {
-            "econ": -10,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
+            "openness": 1,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
         }
     },
     {
-        "question": "It is better to maintain a balanced budget than to ensure welfare for all citizens.",
+        "question": "Trust others.",
         "effect": {
-            "econ": -10,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 1,
+            "neuroticism": 0
         }
     },
     {
-        "question": "Publicly-funded research is more beneficial to the people than leaving it to the market.",
+        "question": "Complete tasks successfully.",
         "effect": {
-            "econ": 10,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 10
+            "openness": 0,
+            "conscientiousness": 1,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
         }
     },
     {
-        "question": "Tariffs on international trade are important to encourage local production.",
+        "question": "Get angry easily.",
         "effect": {
-            "econ": 5,
-            "dipl": 0,
-            "govt": -10,
-            "scty": 0
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 2
         }
     },
     {
-        "question": "From each according to his ability, to each according to his needs.",
+        "question": "Love large parties.",
         "effect": {
-            "econ": 10,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 2,
+            "agreeableness": 0,
+            "neuroticism": 0
         }
     },
     {
-        "question": "It would be best if social programs were abolished in favor of private charity.",
+        "question": "Believe in the importance of art.",
         "effect": {
-            "econ": -10,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
+            "openness": 2,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
         }
     },
     {
-        "question": "Taxes should be increased on the rich to provide for the poor.",
+        "question": "Would never cheat on my taxes.",
         "effect": {
-            "econ": 10,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 2,
+            "neuroticism": 0
         }
     },
     {
-        "question": "Inheritance is a legitimate form of wealth.",
+        "question": "Like order.",
         "effect": {
-            "econ": -10,
-            "dipl": 0,
-            "govt": 0,
-            "scty": -5
+            "openness": 0,
+            "conscientiousness": 2,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
         }
     },
     {
-        "question": "Basic utilities like roads and electricity should be publicly owned.",
+        "question": "Often feel blue.",
         "effect": {
-            "econ": 10,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 3
         }
     },
     {
-        "question": "Government intervention is a threat to the economy.",
+        "question": "Take charge.",
         "effect": {
-            "econ": -10,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 3,
+            "agreeableness": 0,
+            "neuroticism": 0
         }
     },
     {
-        "question": "Those with a greater ability to pay should receive better healthcare.",
+        "question": "Experience my emotions intensely.",
         "effect": {
-            "econ": -10,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
+            "openness": 3,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
         }
     },
     {
-        "question": "Quality education is a right of all people.",
+        "question": "Make people feel welcome.",
         "effect": {
-            "econ": 10,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 5
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 3,
+            "neuroticism": 0
         }
     },
     {
-        "question": "The means of production should belong to the workers who use them.",
+        "question": "Try to follow the rules.",
         "effect": {
-            "econ": 10,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
+            "openness": 0,
+            "conscientiousness": 3,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
         }
     },
     {
-        "question": "The United Nations should be abolished.",
+        "question": "Am easily intimidated.",
         "effect": {
-            "econ": 0,
-            "dipl": -10,
-            "govt": -5,
-            "scty": 0
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 4
         }
     },
     {
-        "question": "Military action by our nation is often necessary to protect it.",
+        "question": "Am always busy.",
         "effect": {
-            "econ": 0,
-            "dipl": -10,
-            "govt": -10,
-            "scty": 0
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 4,
+            "agreeableness": 0,
+            "neuroticism": 0
         }
     },
     {
-        "question": "I support regional unions, such as the European Union.",
+        "question": "Prefer variety to routine.",
         "effect": {
-            "econ": -5,
-            "dipl": 10,
-            "govt": 10,
-            "scty": 5
+            "openness": 4,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
         }
     },
     {
-        "question": "It is important to maintain our national sovereignty.",
+        "question": "Am easy to satisfy.",
         "effect": {
-            "econ": 0,
-            "dipl": -10,
-            "govt": -5,
-            "scty": 0
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 4,
+            "neuroticism": 0
         }
     },
     {
-        "question": "A united world government would be beneficial to mankind.",
+        "question": "Go straight for the goal.",
         "effect": {
-            "econ": 0,
-            "dipl": 10,
-            "govt": 0,
-            "scty": 0
+            "openness": 0,
+            "conscientiousness": 4,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
         }
     },
     {
-        "question": "It is more important to retain peaceful relations than to further our strength.",
+        "question": "Often eat too much.",
         "effect": {
-            "econ": 0,
-            "dipl": 10,
-            "govt": 0,
-            "scty": 0
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 5
         }
     },
     {
-        "question": "Wars do not need to be justified to other countries.",
+        "question": "Love excitement.",
         "effect": {
-            "econ": 0,
-            "dipl": -10,
-            "govt": -10,
-            "scty": 0
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 5,
+            "agreeableness": 0,
+            "neuroticism": 0
         }
     },
     {
-        "question": "Military spending is a waste of money.",
+        "question": "Like to solve complex problems.",
         "effect": {
-            "econ": 0,
-            "dipl": 10,
-            "govt": 10,
-            "scty": 0
+            "openness": 5,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
         }
     },
     {
-        "question": "International aid is a waste of money.",
+        "question": "Dislike being the center of attention.",
         "effect": {
-            "econ": -5,
-            "dipl": -10,
-            "govt": 0,
-            "scty": 0
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 5,
+            "neuroticism": 0
         }
     },
     {
-        "question": "My nation is great.",
+        "question": "Get chores done right away.",
         "effect": {
-            "econ": 0,
-            "dipl": -10,
-            "govt": 0,
-            "scty": 0
+            "openness": 0,
+            "conscientiousness": 5,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
         }
     },
     {
-        "question": "Research should be conducted on an international scale.",
+        "question": "Panic easily.",
         "effect": {
-            "econ": 0,
-            "dipl": 10,
-            "govt": 0,
-            "scty": 10
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 6
         }
     },
     {
-        "question": "Governments should be accountable to the international community.",
+        "question": "Radiate joy.",
         "effect": {
-            "econ": 0,
-            "dipl": 10,
-            "govt": 5,
-            "scty": 0
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 6,
+            "agreeableness": 0,
+            "neuroticism": 0
         }
     },
     {
-        "question": "Even when protesting an authoritarian government, violence is not acceptable.",
+        "question": "Tend to vote for liberal political candidates.",
         "effect": {
-            "econ": 0,
-            "dipl": 5,
-            "govt": -5,
-            "scty": 0
+            "openness": 6,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
         }
     },
     {
-        "question": "My religious values should be spread as much as possible.",
+        "question": "Sympathize with the homeless.",
         "effect": {
-            "econ": 0,
-            "dipl": -5,
-            "govt": -10,
-            "scty": -10
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 6,
+            "neuroticism": 0
         }
     },
     {
-        "question": "Our nation's values should be spread as much as possible.",
+        "question": "Avoid mistakes.",
         "effect": {
-            "econ": 0,
-            "dipl": -10,
-            "govt": -5,
-            "scty": 0
+            "openness": 0,
+            "conscientiousness": 6,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
         }
     },
     {
-        "question": "It is very important to maintain law and order.",
+        "question": "Fear for the worst.",
         "effect": {
-            "econ": 0,
-            "dipl": -5,
-            "govt": -10,
-            "scty": -5
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 1
         }
     },
     {
-        "question": "The general populace makes poor decisions.",
+        "question": "Warm up quickly to others.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": -10,
-            "scty": 0
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 1,
+            "agreeableness": 0,
+            "neuroticism": 0
         }
     },
     {
-        "question": "Physician-assisted suicide should be legal.",
+        "question": "Enjoy wild flights of fantasy.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 10,
-            "scty": 0
+            "openness": 1,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
         }
     },
     {
-        "question": "The sacrifice of some civil liberties is necessary to protect us from acts of terrorism.",
+        "question": "Believe that others have good intentions.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": -10,
-            "scty": 0
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 1,
+            "neuroticism": 0
         }
     },
     {
-        "question": "Government surveillance is necessary in the modern world.",
+        "question": "Excel in what I do.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": -10,
-            "scty": 0
+            "openness": 0,
+            "conscientiousness": 1,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
         }
     },
     {
-        "question": "The very existence of the state is a threat to our liberty.",
+        "question": "Get irritated easily.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 10,
-            "scty": 0
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 2
         }
     },
     {
-        "question": "Regardless of political opinions, it is important to side with your country.",
+        "question": "Talk to a lot of different people at parties.",
         "effect": {
-            "econ": 0,
-            "dipl": -10,
-            "govt": -10,
-            "scty": -5
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 2,
+            "agreeableness": 0,
+            "neuroticism": 0
         }
     },
     {
-        "question": "All authority should be questioned.",
+        "question": "Like music.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 10,
-            "scty": 5
+            "openness": 2,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
         }
     },
     {
-        "question": "A hierarchical state is best.",
+        "question": "Stick to the rules.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": -10,
-            "scty": 0
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 2,
+            "neuroticism": 0
         }
     },
     {
-        "question": "It is important that the government follows the majority opinion, even if it is wrong.",
+        "question": "Like to tidy up.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 10,
-            "scty": 0
+            "openness": 0,
+            "conscientiousness": 2,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
         }
     },
     {
-        "question": "The stronger the leadership, the better.",
+        "question": "Dislike myself.",
         "effect": {
-            "econ": 0,
-            "dipl": -10,
-            "govt": -10,
-            "scty": 0
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 3
         }
     },
     {
-        "question": "Democracy is more than a decision-making process.",
+        "question": "Try to lead others.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 10,
-            "scty": 0
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 3,
+            "agreeableness": 0,
+            "neuroticism": 0
         }
     },
     {
-        "question": "Environmental regulations are essential.",
+        "question": "Feel others' emotions.",
         "effect": {
-            "econ": 5,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 10
+            "openness": 3,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
         }
     },
     {
-        "question": "A better world will come from automation, science, and technology.",
+        "question": "Anticipate the needs of others.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 10
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 3,
+            "neuroticism": 0
         }
     },
     {
-        "question": "Children should be educated in religious or traditional values.",
+        "question": "Keep my promises.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": -5,
-            "scty": -10
+            "openness": 0,
+            "conscientiousness": 3,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
         }
     },
     {
-        "question": "Traditions are of no value on their own.",
+        "question": "Am afraid that I will do the wrong thing.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 10
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 4
         }
     },
     {
-        "question": "Religion should play a role in government.",
+        "question": "Am always on the go.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": -10,
-            "scty": -10
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 4,
+            "agreeableness": 0,
+            "neuroticism": 0
         }
     },
     {
-        "question": "Churches should be taxed the same way other institutions are taxed.",
+        "question": "Like to visit new places.",
         "effect": {
-            "econ": 5,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 10
+            "openness": 4,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
         }
     },
     {
-        "question": "Climate change is currently one of the greatest threats to our way of life.",
+        "question": "Can't stand confrontations.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 10
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 4,
+            "neuroticism": 0
         }
     },
     {
-        "question": "It is important that we work as a united world to combat climate change.",
+        "question": "Work hard.",
         "effect": {
-            "econ": 0,
-            "dipl": 10,
-            "govt": 0,
-            "scty": 10
+            "openness": 0,
+            "conscientiousness": 4,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
         }
     },
     {
-        "question": "Society was better many years ago than it is now.",
+        "question": "Don't know why I do some of the things I do.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": -10
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 5
         }
     },
     {
-        "question": "It is important that we maintain the traditions of our past.",
+        "question": "Seek adventure.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": -10
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 5,
+            "agreeableness": 0,
+            "neuroticism": 0
         }
     },
     {
-        "question": "It is important that we think in the long term, beyond our lifespans.",
+        "question": "Love to read challenging material.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 10
+            "openness": 5,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
         }
     },
     {
-        "question": "Reason is more important than maintaining our culture.",
+        "question": "Dislike talking about myself.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 10
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 5,
+            "neuroticism": 0
         }
     },
     {
-        "question": "Drug use should be legalized or decriminalized.",
+        "question": "Am always prepared.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 10,
-            "scty": 2
+            "openness": 0,
+            "conscientiousness": 5,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
         }
     },
     {
-        "question": "Same-sex marriage should be legal.",
+        "question": "Become overwhelmed by events.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 10,
-            "scty": 10
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 6
         }
     },
     {
-        "question": "No cultures are superior to others.",
+        "question": "Have a lot of fun.",
         "effect": {
-            "econ": 0,
-            "dipl": 10,
-            "govt": 5,
-            "scty": 10
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 6,
+            "agreeableness": 0,
+            "neuroticism": 0
         }
     },
     {
-        "question": "Sex outside marriage is immoral.",
+        "question": "Believe that there is no absolute right or wrong.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": -5,
-            "scty": -10
+            "openness": 6,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
         }
     },
     {
-        "question": "If we accept migrants at all, it is important that they assimilate into our culture.",
+        "question": "Feel sympathy for those who are worse off than myself.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": -5,
-            "scty": -10
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 6,
+            "neuroticism": 0
         }
     },
     {
-        "question": "Abortion should be prohibited in most or all cases.",
+        "question": "Choose my words with care.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": -10,
-            "scty": -10
+            "openness": 0,
+            "conscientiousness": 6,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
         }
     },
     {
-        "question": "Gun ownership should be prohibited for those without a valid reason.",
+        "question": "Am afraid of many things.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": -10,
-            "scty": 0
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 1
         }
     },
     {
-        "question": "I support single-payer, universal healthcare.",
+        "question": "Feel comfortable around people.",
         "effect": {
-            "econ": 10,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 1,
+            "agreeableness": 0,
+            "neuroticism": 0
         }
     },
     {
-        "question": "Prostitution should be illegal.",
+        "question": "Love to daydream.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": -10,
-            "scty": -10
+            "openness": 1,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
         }
     },
     {
-        "question": "Maintaining family values is essential.",
+        "question": "Trust what people say.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": -10
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 1,
+            "neuroticism": 0
         }
     },
     {
-        "question": "To chase progress at all costs is dangerous.",
+        "question": "Handle tasks smoothly.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": -10
+            "openness": 0,
+            "conscientiousness": 1,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
         }
     },
     {
-        "question": "Genetic modification is a force for good, even on humans.",
+        "question": "Get upset easily.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 10
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 2
         }
     },
     {
-        "question": "We should open our borders to immigration.",
+        "question": "Enjoy being part of a group.",
         "effect": {
-            "econ": 0,
-            "dipl": 10,
-            "govt": 10,
-            "scty": 0
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 2,
+            "agreeableness": 0,
+            "neuroticism": 0
         }
     },
     {
-        "question": "Governments should be as concerned about foreigners as they are about their own citizens.",
+        "question": "See beauty in things that others might not notice.",
         "effect": {
-            "econ": 0,
-            "dipl": 10,
-            "govt": 0,
-            "scty": 0
+            "openness": 2,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
         }
     },
     {
-        "question": "All people - regardless of factors like culture or sexuality - should be treated equally.",
+        "question": "Use flattery to get ahead.",
         "effect": {
-            "econ": 10,
-            "dipl": 10,
-            "govt": 10,
-            "scty": 10
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": -2,
+            "neuroticism": 0
         }
     },
     {
-        "question": "It is important that we further my group's goals above all others.",
+        "question": "\"Want everything to be \"\"just right.\"\"\"",
         "effect": {
-            "econ": -10,
-            "dipl": -10,
-            "govt": -10,
-            "scty": -10
+            "openness": 0,
+            "conscientiousness": 2,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Am often down in the dumps.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 3
+        }
+    },
+    {
+        "question": "Can talk others into doing things.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 3,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Am passionate about causes.",
+        "effect": {
+            "openness": 3,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Love to help others.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 3,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Pay my bills on time.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 3,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Find it difficult to approach others.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 4
+        }
+    },
+    {
+        "question": "Do a lot in my spare time.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 4,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Interested in many things.",
+        "effect": {
+            "openness": 4,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Hate to seem pushy.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 4,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Turn plans into actions.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 4,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Do things I later regret.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 5
+        }
+    },
+    {
+        "question": "Love action.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 5,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Have a rich vocabulary.",
+        "effect": {
+            "openness": 5,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Consider myself an average person.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 5,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Start tasks right away.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 5,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Feel that I'm unable to deal with things.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 6
+        }
+    },
+    {
+        "question": "Express childlike joy.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 6,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Believe that criminals should receive help rather than punishment.",
+        "effect": {
+            "openness": 6,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Value cooperation over competition.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 6,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Stick to my chosen path.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 6,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Get stressed out easily.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 1
+        }
+    },
+    {
+        "question": "Act comfortably with others.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 1,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Like to get lost in thought.",
+        "effect": {
+            "openness": 1,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Believe that people are basically moral.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 1,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Am sure of my ground.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 1,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Am often in a bad mood.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 2
+        }
+    },
+    {
+        "question": "Involve others in what I am doing.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 2,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Love flowers.",
+        "effect": {
+            "openness": 2,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Use others for my own ends.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": -2,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Love order and regularity.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 2,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Have a low opinion of myself.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 3
+        }
+    },
+    {
+        "question": "Seek to influence others.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 3,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Enjoy examining myself and my life.",
+        "effect": {
+            "openness": 3,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Am concerned about others.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 3,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Tell the truth.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 3,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Am afraid to draw attention to myself.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 4
+        }
+    },
+    {
+        "question": "Can manage many things at the same time.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 4,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Like to begin new things.",
+        "effect": {
+            "openness": 4,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Have a sharp tongue.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": -4,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Plunge into tasks with all my heart.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 4,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Go on binges.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 5
+        }
+    },
+    {
+        "question": "Enjoy being part of a loud crowd.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 5,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Can handle a lot of information.",
+        "effect": {
+            "openness": 5,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Seldom toot my own horn.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 5,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Get to work at once.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 5,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Can't make up my mind.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 6
+        }
+    },
+    {
+        "question": "Laugh my way through life.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 6,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Believe in one true religion.",
+        "effect": {
+            "openness": -6,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Suffer from others' sorrows.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 6,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Jump into things without thinking.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": -6,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Get caught up in my problems.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 1
+        }
+    },
+    {
+        "question": "Cheer people up.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 1,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Indulge in my fantasies.",
+        "effect": {
+            "openness": 1,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Believe in human goodness.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 1,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Come up with good solutions.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 1,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Lose my temper.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 2
+        }
+    },
+    {
+        "question": "Love surprise parties.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 2,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Enjoy the beauty of nature.",
+        "effect": {
+            "openness": 2,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Know how to get around the rules.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": -2,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Do things according to a plan.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 2,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Have frequent mood swings.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 3
+        }
+    },
+    {
+        "question": "Take control of things.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 3,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Try to understand myself.",
+        "effect": {
+            "openness": 3,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Have a good word for everyone.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 3,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Listen to my conscience.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 3,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Only feel comfortable with friends.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 4
+        }
+    },
+    {
+        "question": "React quickly.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 4,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Prefer to stick with things that I know.",
+        "effect": {
+            "openness": -4,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Contradict others.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": -4,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Do more than what's expected of me.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 4,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Love to eat.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 5
+        }
+    },
+    {
+        "question": "Enjoy being reckless.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 5,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Enjoy thinking about things.",
+        "effect": {
+            "openness": 5,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Believe that I am better than others.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": -5,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Carry out my plans.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 5,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Get overwhelmed by emotions.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 6
+        }
+    },
+    {
+        "question": "Love life.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 6,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Tend to vote for conservative political candidates.",
+        "effect": {
+            "openness": -6,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Am not interested in other people's problems.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": -6,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Make rash decisions.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": -6,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Am not easily bothered by things.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": -1
+        }
+    },
+    {
+        "question": "Am hard to get to know.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": -1,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Spend time reflecting on things.",
+        "effect": {
+            "openness": 1,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Think that all will be well.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 1,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Know how to get things done.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 1,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Rarely get irritated.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": -2
+        }
+    },
+    {
+        "question": "Prefer to be alone.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": -2,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Do not like art.",
+        "effect": {
+            "openness": -2,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Cheat to get ahead.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": -2,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Often forget to put things back in their proper place.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": -2,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Feel desperate.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 3
+        }
+    },
+    {
+        "question": "Wait for others to lead the way.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": -3,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Seldom get emotional.",
+        "effect": {
+            "openness": -3,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Look down on others.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": -3,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Break rules.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": -3,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Stumble over my words.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 4
+        }
+    },
+    {
+        "question": "Like to take it easy.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": -4,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Dislike changes.",
+        "effect": {
+            "openness": -4,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Love a good fight.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": -4,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Set high standards for myself and others.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 4,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Rarely overindulge.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": -5
+        }
+    },
+    {
+        "question": "Act wild and crazy.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 5,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Am not interested in abstract ideas.",
+        "effect": {
+            "openness": -5,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Think highly of myself.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": -5,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Find it difficult to get down to work.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": -5,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Remain calm under pressure.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": -6
+        }
+    },
+    {
+        "question": "Look at the bright side of life.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 6,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Believe that too much tax money goes to support artists.",
+        "effect": {
+            "openness": -6,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Tend to dislike soft-hearted people.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": -6,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Like to act on a whim.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": -6,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Am relaxed most of the time.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": -1
+        }
+    },
+    {
+        "question": "Often feel uncomfortable around others.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": -1,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Seldom daydream.",
+        "effect": {
+            "openness": -1,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Distrust people.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": -1,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Misjudge situations.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": -1,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Seldom get mad.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": -2
+        }
+    },
+    {
+        "question": "Want to be left alone.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": -2,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Do not like poetry.",
+        "effect": {
+            "openness": -2,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Put people under pressure.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": -2,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Leave a mess in my room.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": -2,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Feel that my life lacks direction.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 3
+        }
+    },
+    {
+        "question": "Keep in the background.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": -3,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Am not easily affected by my emotions.",
+        "effect": {
+            "openness": -3,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Am indifferent to the feelings of others.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": -3,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Break my promises.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": -3,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Am not embarrassed easily.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": -4
+        }
+    },
+    {
+        "question": "Like to take my time.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": -4,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Don't like the idea of change.",
+        "effect": {
+            "openness": -4,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Yell at people.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": -4,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Demand quality.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 4,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Easily resist temptations.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": -5
+        }
+    },
+    {
+        "question": "Willing to try anything once.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 5,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Avoid philosophical discussions.",
+        "effect": {
+            "openness": -5,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Have a high opinion of myself.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": -5,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Waste my time.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": -5,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Can handle complex problems.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": -6
+        }
+    },
+    {
+        "question": "Laugh aloud.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 6,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Believe laws should be strictly enforced.",
+        "effect": {
+            "openness": -6,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Believe in an eye for an eye.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": -6,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Rush into things.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": -6,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Am not easily disturbed by events.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": -1
+        }
+    },
+    {
+        "question": "Avoid contacts with others.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": -1,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Do not have a good imagination.",
+        "effect": {
+            "openness": -1,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Suspect hidden motives in others.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": -1,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Don't understand things.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": -1,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Am not easily annoyed.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": -2
+        }
+    },
+    {
+        "question": "Don't like crowded events.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": -2,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Do not enjoy going to art museums.",
+        "effect": {
+            "openness": -2,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Pretend to be concerned for others.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": -2,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Leave my belongings around.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": -2,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Seldom feel blue.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": -3
+        }
+    },
+    {
+        "question": "Have little to say.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": -3,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Rarely notice my emotional reactions.",
+        "effect": {
+            "openness": -3,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Make people feel uncomfortable.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": -3,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Get others to do my duties.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": -3,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Am comfortable in unfamiliar situations.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": -4
+        }
+    },
+    {
+        "question": "Like a leisurely lifestyle.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": -4,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Am a creature of habit.",
+        "effect": {
+            "openness": -4,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Insult people.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": -4,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Am not highly motivated to succeed.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": -4,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Am able to control my cravings.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": -5
+        }
+    },
+    {
+        "question": "Seek danger.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 5,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Have difficulty understanding abstract ideas.",
+        "effect": {
+            "openness": -5,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Know the answers to many questions.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": -5,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Need a push to get started.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": -5,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Know how to cope.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": -6
+        }
+    },
+    {
+        "question": "Amuse my friends.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 6,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Believe that we coddle criminals too much.",
+        "effect": {
+            "openness": -6,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Try not to think about the needy.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": -6,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Do crazy things.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": -6,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Don't worry about things that have already happened.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": -1
+        }
+    },
+    {
+        "question": "Am not really interested in others.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": -1,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Seldom get lost in thought.",
+        "effect": {
+            "openness": -1,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Am wary of others.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": -1,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Have little to contribute.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": -1,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Keep my cool.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": -2
+        }
+    },
+    {
+        "question": "Avoid crowds.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": -2,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Do not like concerts.",
+        "effect": {
+            "openness": -2,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Take advantage of others.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": -2,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Am not bothered by messy people.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": -2,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Feel comfortable with myself.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": -3
+        }
+    },
+    {
+        "question": "Don't like to draw attention to myself.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": -3,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Experience very few emotional highs and lows.",
+        "effect": {
+            "openness": -3,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Turn my back on others.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": -3,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Do the opposite of what is asked.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": -3,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Am not bothered by difficult social situations.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": -4
+        }
+    },
+    {
+        "question": "Let things proceed at their own pace.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": -4,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Dislike new foods.",
+        "effect": {
+            "openness": -4,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Get back at others.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": -4,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Do just enough work to get by.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": -4,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Never spend more than I can afford.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": -5
+        }
+    },
+    {
+        "question": "Would never go hang gliding or bungee jumping.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": -5,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Am not interested in theoretical discussions.",
+        "effect": {
+            "openness": -5,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Boast about my virtues.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": -5,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Have difficulty starting tasks.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": -5,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Readily overcome setbacks.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": -6
+        }
+    },
+    {
+        "question": "Am not easily amused.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": -6,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Believe that we should be tough on crime.",
+        "effect": {
+            "openness": -6,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Believe people should fend for themselves.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": -6,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Act without thinking.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": -6,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Adapt easily to new situations.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": -1
+        }
+    },
+    {
+        "question": "Keep others at a distance.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": -1,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Have difficulty imagining things.",
+        "effect": {
+            "openness": -1,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Believe that people are essentially evil.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": -1,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Don't see the consequences of things.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": -1,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Rarely complain.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": -2
+        }
+    },
+    {
+        "question": "Seek quiet.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": -2,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Do not enjoy watching dance performances.",
+        "effect": {
+            "openness": -2,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Obstruct others' plans.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": -2,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Am not bothered by disorder.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": -2,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Am very pleased with myself.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": -3
+        }
+    },
+    {
+        "question": "Hold back my opinions.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": -3,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Don't understand people who get emotional.",
+        "effect": {
+            "openness": -3,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Take no time for others.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": -3,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Misrepresent the facts.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": -3,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Am able to stand up for myself.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": -4
+        }
+    },
+    {
+        "question": "React slowly.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": -4,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Am attached to conventional ways.",
+        "effect": {
+            "openness": -4,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Hold a grudge.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": -4,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Put little time and effort into my work.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": -4,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Never splurge.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": -5
+        }
+    },
+    {
+        "question": "Dislike loud music.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": -5,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Avoid difficult reading material.",
+        "effect": {
+            "openness": -5,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Make myself the center of attention.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": -5,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Postpone decisions.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": -5,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Am calm even in tense situations.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": -6
+        }
+    },
+    {
+        "question": "Seldom joke around.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": -6,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Like to stand during the national anthem.",
+        "effect": {
+            "openness": -6,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Can't stand weak people.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": 0,
+            "extraversion": 0,
+            "agreeableness": -6,
+            "neuroticism": 0
+        }
+    },
+    {
+        "question": "Often make last-minute plans.",
+        "effect": {
+            "openness": 0,
+            "conscientiousness": -6,
+            "extraversion": 0,
+            "agreeableness": 0,
+            "neuroticism": 0
         }
     }
 ];
