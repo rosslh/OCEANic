@@ -1,6 +1,6 @@
 questions = [
     {
-        "question": "Worry about things.",
+        "question": "I worry about things.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -10,7 +10,7 @@ questions = [
         }
     },
     {
-        "question": "Make friends easily.",
+        "question": "I make friends easily.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -20,7 +20,7 @@ questions = [
         }
     },
     {
-        "question": "Have a vivid imagination.",
+        "question": "I have a vivid imagination.",
         "effect": {
             "openness": 1,
             "conscientiousness": 0,
@@ -30,7 +30,7 @@ questions = [
         }
     },
     {
-        "question": "Trust others.",
+        "question": "I trust others.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -40,7 +40,7 @@ questions = [
         }
     },
     {
-        "question": "Complete tasks successfully.",
+        "question": "I complete tasks successfully.",
         "effect": {
             "openness": 0,
             "conscientiousness": 1,
@@ -50,7 +50,7 @@ questions = [
         }
     },
     {
-        "question": "Get angry easily.",
+        "question": "I get angry easily.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -60,7 +60,7 @@ questions = [
         }
     },
     {
-        "question": "Love large parties.",
+        "question": "I love large parties.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -70,7 +70,7 @@ questions = [
         }
     },
     {
-        "question": "Believe in the importance of art.",
+        "question": "I believe in the importance of art.",
         "effect": {
             "openness": 2,
             "conscientiousness": 0,
@@ -80,7 +80,7 @@ questions = [
         }
     },
     {
-        "question": "Would never cheat on my taxes.",
+        "question": "I would never cheat on my taxes.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -90,7 +90,7 @@ questions = [
         }
     },
     {
-        "question": "Like order.",
+        "question": "I like order.",
         "effect": {
             "openness": 0,
             "conscientiousness": 2,
@@ -100,7 +100,7 @@ questions = [
         }
     },
     {
-        "question": "Often feel blue.",
+        "question": "I often feel blue.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -110,7 +110,7 @@ questions = [
         }
     },
     {
-        "question": "Take charge.",
+        "question": "I take charge.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -120,7 +120,7 @@ questions = [
         }
     },
     {
-        "question": "Experience my emotions intensely.",
+        "question": "I experience my emotions intensely.",
         "effect": {
             "openness": 3,
             "conscientiousness": 0,
@@ -130,7 +130,7 @@ questions = [
         }
     },
     {
-        "question": "Make people feel welcome.",
+        "question": "I make people feel welcome.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -140,7 +140,7 @@ questions = [
         }
     },
     {
-        "question": "Try to follow the rules.",
+        "question": "I try to follow the rules.",
         "effect": {
             "openness": 0,
             "conscientiousness": 3,
@@ -150,7 +150,7 @@ questions = [
         }
     },
     {
-        "question": "Am easily intimidated.",
+        "question": "I am easily intimidated.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -160,7 +160,7 @@ questions = [
         }
     },
     {
-        "question": "Am always busy.",
+        "question": "I am always busy.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -170,7 +170,7 @@ questions = [
         }
     },
     {
-        "question": "Prefer variety to routine.",
+        "question": "I prefer variety to routine.",
         "effect": {
             "openness": 4,
             "conscientiousness": 0,
@@ -180,7 +180,7 @@ questions = [
         }
     },
     {
-        "question": "Am easy to satisfy.",
+        "question": "I am easy to satisfy.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -190,7 +190,7 @@ questions = [
         }
     },
     {
-        "question": "Go straight for the goal.",
+        "question": "I go straight for the goal.",
         "effect": {
             "openness": 0,
             "conscientiousness": 4,
@@ -200,7 +200,7 @@ questions = [
         }
     },
     {
-        "question": "Often eat too much.",
+        "question": "I often eat too much.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -210,7 +210,7 @@ questions = [
         }
     },
     {
-        "question": "Love excitement.",
+        "question": "I love excitement.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -220,7 +220,7 @@ questions = [
         }
     },
     {
-        "question": "Like to solve complex problems.",
+        "question": "I like to solve complex problems.",
         "effect": {
             "openness": 5,
             "conscientiousness": 0,
@@ -230,7 +230,7 @@ questions = [
         }
     },
     {
-        "question": "Dislike being the center of attention.",
+        "question": "I dislike being the center of attention.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -240,7 +240,7 @@ questions = [
         }
     },
     {
-        "question": "Get chores done right away.",
+        "question": "I get chores done right away.",
         "effect": {
             "openness": 0,
             "conscientiousness": 5,
@@ -250,7 +250,7 @@ questions = [
         }
     },
     {
-        "question": "Panic easily.",
+        "question": "I panic easily.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -260,7 +260,7 @@ questions = [
         }
     },
     {
-        "question": "Radiate joy.",
+        "question": "I radiate joy.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -270,7 +270,7 @@ questions = [
         }
     },
     {
-        "question": "Tend to vote for liberal political candidates.",
+        "question": "I tend to vote for liberal political candidates.",
         "effect": {
             "openness": 6,
             "conscientiousness": 0,
@@ -280,7 +280,7 @@ questions = [
         }
     },
     {
-        "question": "Sympathize with the homeless.",
+        "question": "I sympathize with the homeless.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -290,7 +290,7 @@ questions = [
         }
     },
     {
-        "question": "Avoid mistakes.",
+        "question": "I avoid mistakes.",
         "effect": {
             "openness": 0,
             "conscientiousness": 6,
@@ -300,7 +300,7 @@ questions = [
         }
     },
     {
-        "question": "Fear for the worst.",
+        "question": "I fear for the worst.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -310,7 +310,7 @@ questions = [
         }
     },
     {
-        "question": "Warm up quickly to others.",
+        "question": "I warm up quickly to others.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -320,7 +320,7 @@ questions = [
         }
     },
     {
-        "question": "Enjoy wild flights of fantasy.",
+        "question": "I enjoy wild flights of fantasy.",
         "effect": {
             "openness": 1,
             "conscientiousness": 0,
@@ -330,7 +330,7 @@ questions = [
         }
     },
     {
-        "question": "Believe that others have good intentions.",
+        "question": "I believe that others have good intentions.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -340,7 +340,7 @@ questions = [
         }
     },
     {
-        "question": "Excel in what I do.",
+        "question": "I excel in what I do.",
         "effect": {
             "openness": 0,
             "conscientiousness": 1,
@@ -350,7 +350,7 @@ questions = [
         }
     },
     {
-        "question": "Get irritated easily.",
+        "question": "I get irritated easily.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -360,7 +360,7 @@ questions = [
         }
     },
     {
-        "question": "Talk to a lot of different people at parties.",
+        "question": "I talk to a lot of different people at parties.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -370,7 +370,7 @@ questions = [
         }
     },
     {
-        "question": "Like music.",
+        "question": "I like music.",
         "effect": {
             "openness": 2,
             "conscientiousness": 0,
@@ -380,7 +380,7 @@ questions = [
         }
     },
     {
-        "question": "Stick to the rules.",
+        "question": "I stick to the rules.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -390,7 +390,7 @@ questions = [
         }
     },
     {
-        "question": "Like to tidy up.",
+        "question": "I like to tidy up.",
         "effect": {
             "openness": 0,
             "conscientiousness": 2,
@@ -400,7 +400,7 @@ questions = [
         }
     },
     {
-        "question": "Dislike myself.",
+        "question": "I dislike myself.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -410,7 +410,7 @@ questions = [
         }
     },
     {
-        "question": "Try to lead others.",
+        "question": "I try to lead others.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -420,7 +420,7 @@ questions = [
         }
     },
     {
-        "question": "Feel others' emotions.",
+        "question": "I feel others' emotions.",
         "effect": {
             "openness": 3,
             "conscientiousness": 0,
@@ -430,7 +430,7 @@ questions = [
         }
     },
     {
-        "question": "Anticipate the needs of others.",
+        "question": "I anticipate the needs of others.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -440,7 +440,7 @@ questions = [
         }
     },
     {
-        "question": "Keep my promises.",
+        "question": "I keep my promises.",
         "effect": {
             "openness": 0,
             "conscientiousness": 3,
@@ -450,7 +450,7 @@ questions = [
         }
     },
     {
-        "question": "Am afraid that I will do the wrong thing.",
+        "question": "I am afraid that I will do the wrong thing.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -460,7 +460,7 @@ questions = [
         }
     },
     {
-        "question": "Am always on the go.",
+        "question": "I am always on the go.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -470,7 +470,7 @@ questions = [
         }
     },
     {
-        "question": "Like to visit new places.",
+        "question": "I like to visit new places.",
         "effect": {
             "openness": 4,
             "conscientiousness": 0,
@@ -480,7 +480,7 @@ questions = [
         }
     },
     {
-        "question": "Can't stand confrontations.",
+        "question": "I can't stand confrontations.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -490,7 +490,7 @@ questions = [
         }
     },
     {
-        "question": "Work hard.",
+        "question": "I work hard.",
         "effect": {
             "openness": 0,
             "conscientiousness": 4,
@@ -500,7 +500,7 @@ questions = [
         }
     },
     {
-        "question": "Don't know why I do some of the things I do.",
+        "question": "I don't know why I do some of the things I do.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -510,7 +510,7 @@ questions = [
         }
     },
     {
-        "question": "Seek adventure.",
+        "question": "I seek adventure.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -520,7 +520,7 @@ questions = [
         }
     },
     {
-        "question": "Love to read challenging material.",
+        "question": "I love to read challenging material.",
         "effect": {
             "openness": 5,
             "conscientiousness": 0,
@@ -530,7 +530,7 @@ questions = [
         }
     },
     {
-        "question": "Dislike talking about myself.",
+        "question": "I dislike talking about myself.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -540,7 +540,7 @@ questions = [
         }
     },
     {
-        "question": "Am always prepared.",
+        "question": "I am always prepared.",
         "effect": {
             "openness": 0,
             "conscientiousness": 5,
@@ -550,7 +550,7 @@ questions = [
         }
     },
     {
-        "question": "Become overwhelmed by events.",
+        "question": "I become overwhelmed by events.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -560,7 +560,7 @@ questions = [
         }
     },
     {
-        "question": "Have a lot of fun.",
+        "question": "I have a lot of fun.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -570,7 +570,7 @@ questions = [
         }
     },
     {
-        "question": "Believe that there is no absolute right or wrong.",
+        "question": "I believe that there is no absolute right or wrong.",
         "effect": {
             "openness": 6,
             "conscientiousness": 0,
@@ -580,7 +580,7 @@ questions = [
         }
     },
     {
-        "question": "Feel sympathy for those who are worse off than myself.",
+        "question": "I feel sympathy for those who are worse off than myself.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -590,7 +590,7 @@ questions = [
         }
     },
     {
-        "question": "Choose my words with care.",
+        "question": "I choose my words with care.",
         "effect": {
             "openness": 0,
             "conscientiousness": 6,
@@ -600,7 +600,7 @@ questions = [
         }
     },
     {
-        "question": "Am afraid of many things.",
+        "question": "I am afraid of many things.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -610,7 +610,7 @@ questions = [
         }
     },
     {
-        "question": "Feel comfortable around people.",
+        "question": "I feel comfortable around people.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -620,7 +620,7 @@ questions = [
         }
     },
     {
-        "question": "Love to daydream.",
+        "question": "I love to daydream.",
         "effect": {
             "openness": 1,
             "conscientiousness": 0,
@@ -630,7 +630,7 @@ questions = [
         }
     },
     {
-        "question": "Trust what people say.",
+        "question": "I trust what people say.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -640,7 +640,7 @@ questions = [
         }
     },
     {
-        "question": "Handle tasks smoothly.",
+        "question": "I handle tasks smoothly.",
         "effect": {
             "openness": 0,
             "conscientiousness": 1,
@@ -650,7 +650,7 @@ questions = [
         }
     },
     {
-        "question": "Get upset easily.",
+        "question": "I get upset easily.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -660,7 +660,7 @@ questions = [
         }
     },
     {
-        "question": "Enjoy being part of a group.",
+        "question": "I enjoy being part of a group.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -670,7 +670,7 @@ questions = [
         }
     },
     {
-        "question": "See beauty in things that others might not notice.",
+        "question": "I see beauty in things that others might not notice.",
         "effect": {
             "openness": 2,
             "conscientiousness": 0,
@@ -680,7 +680,7 @@ questions = [
         }
     },
     {
-        "question": "Use flattery to get ahead.",
+        "question": "I use flattery to get ahead.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -690,7 +690,7 @@ questions = [
         }
     },
     {
-        "question": "\"Want everything to be \"\"just right.\"\"\"",
+        "question": "I want everything to be \"just right.\"",
         "effect": {
             "openness": 0,
             "conscientiousness": 2,
@@ -700,7 +700,7 @@ questions = [
         }
     },
     {
-        "question": "Am often down in the dumps.",
+        "question": "I am often down in the dumps.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -710,7 +710,7 @@ questions = [
         }
     },
     {
-        "question": "Can talk others into doing things.",
+        "question": "I can talk others into doing things.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -720,7 +720,7 @@ questions = [
         }
     },
     {
-        "question": "Am passionate about causes.",
+        "question": "I am passionate about causes.",
         "effect": {
             "openness": 3,
             "conscientiousness": 0,
@@ -730,7 +730,7 @@ questions = [
         }
     },
     {
-        "question": "Love to help others.",
+        "question": "I love to help others.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -740,7 +740,7 @@ questions = [
         }
     },
     {
-        "question": "Pay my bills on time.",
+        "question": "I pay my bills on time.",
         "effect": {
             "openness": 0,
             "conscientiousness": 3,
@@ -750,7 +750,7 @@ questions = [
         }
     },
     {
-        "question": "Find it difficult to approach others.",
+        "question": "I find it difficult to approach others.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -760,7 +760,7 @@ questions = [
         }
     },
     {
-        "question": "Do a lot in my spare time.",
+        "question": "I do a lot in my spare time.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -770,7 +770,7 @@ questions = [
         }
     },
     {
-        "question": "Interested in many things.",
+        "question": "I interested in many things.",
         "effect": {
             "openness": 4,
             "conscientiousness": 0,
@@ -780,7 +780,7 @@ questions = [
         }
     },
     {
-        "question": "Hate to seem pushy.",
+        "question": "I hate to seem pushy.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -790,7 +790,7 @@ questions = [
         }
     },
     {
-        "question": "Turn plans into actions.",
+        "question": "I turn plans into actions.",
         "effect": {
             "openness": 0,
             "conscientiousness": 4,
@@ -800,7 +800,7 @@ questions = [
         }
     },
     {
-        "question": "Do things I later regret.",
+        "question": "I do things I later regret.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -810,7 +810,7 @@ questions = [
         }
     },
     {
-        "question": "Love action.",
+        "question": "I love action.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -820,7 +820,7 @@ questions = [
         }
     },
     {
-        "question": "Have a rich vocabulary.",
+        "question": "I have a rich vocabulary.",
         "effect": {
             "openness": 5,
             "conscientiousness": 0,
@@ -830,7 +830,7 @@ questions = [
         }
     },
     {
-        "question": "Consider myself an average person.",
+        "question": "I consider myself an average person.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -840,7 +840,7 @@ questions = [
         }
     },
     {
-        "question": "Start tasks right away.",
+        "question": "I start tasks right away.",
         "effect": {
             "openness": 0,
             "conscientiousness": 5,
@@ -850,7 +850,7 @@ questions = [
         }
     },
     {
-        "question": "Feel that I'm unable to deal with things.",
+        "question": "I feel that I'm unable to deal with things.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -860,7 +860,7 @@ questions = [
         }
     },
     {
-        "question": "Express childlike joy.",
+        "question": "I express childlike joy.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -870,7 +870,7 @@ questions = [
         }
     },
     {
-        "question": "Believe that criminals should receive help rather than punishment.",
+        "question": "I believe that criminals should receive help rather than punishment.",
         "effect": {
             "openness": 6,
             "conscientiousness": 0,
@@ -880,7 +880,7 @@ questions = [
         }
     },
     {
-        "question": "Value cooperation over competition.",
+        "question": "I value cooperation over competition.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -890,7 +890,7 @@ questions = [
         }
     },
     {
-        "question": "Stick to my chosen path.",
+        "question": "I stick to my chosen path.",
         "effect": {
             "openness": 0,
             "conscientiousness": 6,
@@ -900,7 +900,7 @@ questions = [
         }
     },
     {
-        "question": "Get stressed out easily.",
+        "question": "I get stressed out easily.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -910,7 +910,7 @@ questions = [
         }
     },
     {
-        "question": "Act comfortably with others.",
+        "question": "I act comfortably with others.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -920,7 +920,7 @@ questions = [
         }
     },
     {
-        "question": "Like to get lost in thought.",
+        "question": "I like to get lost in thought.",
         "effect": {
             "openness": 1,
             "conscientiousness": 0,
@@ -930,7 +930,7 @@ questions = [
         }
     },
     {
-        "question": "Believe that people are basically moral.",
+        "question": "I believe that people are basically moral.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -940,7 +940,7 @@ questions = [
         }
     },
     {
-        "question": "Am sure of my ground.",
+        "question": "I am sure of my ground.",
         "effect": {
             "openness": 0,
             "conscientiousness": 1,
@@ -950,7 +950,7 @@ questions = [
         }
     },
     {
-        "question": "Am often in a bad mood.",
+        "question": "I am often in a bad mood.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -960,7 +960,7 @@ questions = [
         }
     },
     {
-        "question": "Involve others in what I am doing.",
+        "question": "I involve others in what I am doing.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -970,7 +970,7 @@ questions = [
         }
     },
     {
-        "question": "Love flowers.",
+        "question": "I love flowers.",
         "effect": {
             "openness": 2,
             "conscientiousness": 0,
@@ -980,7 +980,7 @@ questions = [
         }
     },
     {
-        "question": "Use others for my own ends.",
+        "question": "I use others for my own ends.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -990,7 +990,7 @@ questions = [
         }
     },
     {
-        "question": "Love order and regularity.",
+        "question": "I love order and regularity.",
         "effect": {
             "openness": 0,
             "conscientiousness": 2,
@@ -1000,7 +1000,7 @@ questions = [
         }
     },
     {
-        "question": "Have a low opinion of myself.",
+        "question": "I have a low opinion of myself.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1010,7 +1010,7 @@ questions = [
         }
     },
     {
-        "question": "Seek to influence others.",
+        "question": "I seek to influence others.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1020,7 +1020,7 @@ questions = [
         }
     },
     {
-        "question": "Enjoy examining myself and my life.",
+        "question": "I enjoy examining myself and my life.",
         "effect": {
             "openness": 3,
             "conscientiousness": 0,
@@ -1030,7 +1030,7 @@ questions = [
         }
     },
     {
-        "question": "Am concerned about others.",
+        "question": "I am concerned about others.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1040,7 +1040,7 @@ questions = [
         }
     },
     {
-        "question": "Tell the truth.",
+        "question": "I tell the truth.",
         "effect": {
             "openness": 0,
             "conscientiousness": 3,
@@ -1050,7 +1050,7 @@ questions = [
         }
     },
     {
-        "question": "Am afraid to draw attention to myself.",
+        "question": "I am afraid to draw attention to myself.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1060,7 +1060,7 @@ questions = [
         }
     },
     {
-        "question": "Can manage many things at the same time.",
+        "question": "I can manage many things at the same time.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1070,7 +1070,7 @@ questions = [
         }
     },
     {
-        "question": "Like to begin new things.",
+        "question": "I like to begin new things.",
         "effect": {
             "openness": 4,
             "conscientiousness": 0,
@@ -1080,7 +1080,7 @@ questions = [
         }
     },
     {
-        "question": "Have a sharp tongue.",
+        "question": "I have a sharp tongue.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1090,7 +1090,7 @@ questions = [
         }
     },
     {
-        "question": "Plunge into tasks with all my heart.",
+        "question": "I plunge into tasks with all my heart.",
         "effect": {
             "openness": 0,
             "conscientiousness": 4,
@@ -1100,7 +1100,7 @@ questions = [
         }
     },
     {
-        "question": "Go on binges.",
+        "question": "I go on binges.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1110,7 +1110,7 @@ questions = [
         }
     },
     {
-        "question": "Enjoy being part of a loud crowd.",
+        "question": "I enjoy being part of a loud crowd.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1120,7 +1120,7 @@ questions = [
         }
     },
     {
-        "question": "Can handle a lot of information.",
+        "question": "I can handle a lot of information.",
         "effect": {
             "openness": 5,
             "conscientiousness": 0,
@@ -1130,7 +1130,7 @@ questions = [
         }
     },
     {
-        "question": "Seldom toot my own horn.",
+        "question": "I seldom toot my own horn.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1140,7 +1140,7 @@ questions = [
         }
     },
     {
-        "question": "Get to work at once.",
+        "question": "I get to work right away.",
         "effect": {
             "openness": 0,
             "conscientiousness": 5,
@@ -1150,7 +1150,7 @@ questions = [
         }
     },
     {
-        "question": "Can't make up my mind.",
+        "question": "I can't make up my mind.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1160,7 +1160,7 @@ questions = [
         }
     },
     {
-        "question": "Laugh my way through life.",
+        "question": "I laugh my way through life.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1170,7 +1170,7 @@ questions = [
         }
     },
     {
-        "question": "Believe in one true religion.",
+        "question": "I believe in one true religion.",
         "effect": {
             "openness": -6,
             "conscientiousness": 0,
@@ -1180,7 +1180,7 @@ questions = [
         }
     },
     {
-        "question": "Suffer from others' sorrows.",
+        "question": "I suffer from others' sorrows.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1190,7 +1190,7 @@ questions = [
         }
     },
     {
-        "question": "Jump into things without thinking.",
+        "question": "I jump into things without thinking.",
         "effect": {
             "openness": 0,
             "conscientiousness": -6,
@@ -1200,7 +1200,7 @@ questions = [
         }
     },
     {
-        "question": "Get caught up in my problems.",
+        "question": "I get caught up in my problems.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1210,7 +1210,7 @@ questions = [
         }
     },
     {
-        "question": "Cheer people up.",
+        "question": "I cheer people up.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1220,7 +1220,7 @@ questions = [
         }
     },
     {
-        "question": "Indulge in my fantasies.",
+        "question": "I indulge in my fantasies.",
         "effect": {
             "openness": 1,
             "conscientiousness": 0,
@@ -1230,7 +1230,7 @@ questions = [
         }
     },
     {
-        "question": "Believe in human goodness.",
+        "question": "I believe in human goodness.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1240,7 +1240,7 @@ questions = [
         }
     },
     {
-        "question": "Come up with good solutions.",
+        "question": "I come up with good solutions.",
         "effect": {
             "openness": 0,
             "conscientiousness": 1,
@@ -1250,7 +1250,7 @@ questions = [
         }
     },
     {
-        "question": "Lose my temper.",
+        "question": "I lose my temper.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1260,7 +1260,7 @@ questions = [
         }
     },
     {
-        "question": "Love surprise parties.",
+        "question": "I love surprise parties.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1270,7 +1270,7 @@ questions = [
         }
     },
     {
-        "question": "Enjoy the beauty of nature.",
+        "question": "I enjoy the beauty of nature.",
         "effect": {
             "openness": 2,
             "conscientiousness": 0,
@@ -1280,7 +1280,7 @@ questions = [
         }
     },
     {
-        "question": "Know how to get around the rules.",
+        "question": "I know how to get around the rules.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1290,7 +1290,7 @@ questions = [
         }
     },
     {
-        "question": "Do things according to a plan.",
+        "question": "I do things according to a plan.",
         "effect": {
             "openness": 0,
             "conscientiousness": 2,
@@ -1300,7 +1300,7 @@ questions = [
         }
     },
     {
-        "question": "Have frequent mood swings.",
+        "question": "I have frequent mood swings.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1310,7 +1310,7 @@ questions = [
         }
     },
     {
-        "question": "Take control of things.",
+        "question": "I take control of things.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1320,7 +1320,7 @@ questions = [
         }
     },
     {
-        "question": "Try to understand myself.",
+        "question": "I try to understand myself.",
         "effect": {
             "openness": 3,
             "conscientiousness": 0,
@@ -1330,7 +1330,7 @@ questions = [
         }
     },
     {
-        "question": "Have a good word for everyone.",
+        "question": "I have a good word for everyone.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1340,7 +1340,7 @@ questions = [
         }
     },
     {
-        "question": "Listen to my conscience.",
+        "question": "I listen to my conscience.",
         "effect": {
             "openness": 0,
             "conscientiousness": 3,
@@ -1350,7 +1350,7 @@ questions = [
         }
     },
     {
-        "question": "Only feel comfortable with friends.",
+        "question": "I only feel comfortable with friends.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1360,7 +1360,7 @@ questions = [
         }
     },
     {
-        "question": "React quickly.",
+        "question": "I react quickly.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1370,7 +1370,7 @@ questions = [
         }
     },
     {
-        "question": "Prefer to stick with things that I know.",
+        "question": "I prefer to stick with things that I know.",
         "effect": {
             "openness": -4,
             "conscientiousness": 0,
@@ -1380,7 +1380,7 @@ questions = [
         }
     },
     {
-        "question": "Contradict others.",
+        "question": "I contradict others.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1390,7 +1390,7 @@ questions = [
         }
     },
     {
-        "question": "Do more than what's expected of me.",
+        "question": "I do more than what's expected of me.",
         "effect": {
             "openness": 0,
             "conscientiousness": 4,
@@ -1400,7 +1400,7 @@ questions = [
         }
     },
     {
-        "question": "Love to eat.",
+        "question": "I love to eat.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1410,7 +1410,7 @@ questions = [
         }
     },
     {
-        "question": "Enjoy being reckless.",
+        "question": "I enjoy being reckless.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1420,7 +1420,7 @@ questions = [
         }
     },
     {
-        "question": "Enjoy thinking about things.",
+        "question": "I enjoy thinking about things.",
         "effect": {
             "openness": 5,
             "conscientiousness": 0,
@@ -1430,7 +1430,7 @@ questions = [
         }
     },
     {
-        "question": "Believe that I am better than others.",
+        "question": "I believe that I am better than others.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1440,7 +1440,7 @@ questions = [
         }
     },
     {
-        "question": "Carry out my plans.",
+        "question": "I carry out my plans.",
         "effect": {
             "openness": 0,
             "conscientiousness": 5,
@@ -1450,7 +1450,7 @@ questions = [
         }
     },
     {
-        "question": "Get overwhelmed by emotions.",
+        "question": "I get overwhelmed by emotions.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1460,7 +1460,7 @@ questions = [
         }
     },
     {
-        "question": "Love life.",
+        "question": "I love life.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1470,7 +1470,7 @@ questions = [
         }
     },
     {
-        "question": "Tend to vote for conservative political candidates.",
+        "question": "I tend to vote for conservative political candidates.",
         "effect": {
             "openness": -6,
             "conscientiousness": 0,
@@ -1480,7 +1480,7 @@ questions = [
         }
     },
     {
-        "question": "Am not interested in other people's problems.",
+        "question": "I am not interested in other people's problems.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1490,7 +1490,7 @@ questions = [
         }
     },
     {
-        "question": "Make rash decisions.",
+        "question": "I make rash decisions.",
         "effect": {
             "openness": 0,
             "conscientiousness": -6,
@@ -1500,7 +1500,7 @@ questions = [
         }
     },
     {
-        "question": "Am not easily bothered by things.",
+        "question": "I am not easily bothered by things.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1510,7 +1510,7 @@ questions = [
         }
     },
     {
-        "question": "Am hard to get to know.",
+        "question": "I am hard to get to know.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1520,7 +1520,7 @@ questions = [
         }
     },
     {
-        "question": "Spend time reflecting on things.",
+        "question": "I spend time reflecting on things.",
         "effect": {
             "openness": 1,
             "conscientiousness": 0,
@@ -1530,7 +1530,7 @@ questions = [
         }
     },
     {
-        "question": "Think that all will be well.",
+        "question": "I think that all will be well.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1540,7 +1540,7 @@ questions = [
         }
     },
     {
-        "question": "Know how to get things done.",
+        "question": "I know how to get things done.",
         "effect": {
             "openness": 0,
             "conscientiousness": 1,
@@ -1550,7 +1550,7 @@ questions = [
         }
     },
     {
-        "question": "Rarely get irritated.",
+        "question": "I rarely get irritated.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1560,7 +1560,7 @@ questions = [
         }
     },
     {
-        "question": "Prefer to be alone.",
+        "question": "I prefer to be alone.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1570,7 +1570,7 @@ questions = [
         }
     },
     {
-        "question": "Do not like art.",
+        "question": "I do not like art.",
         "effect": {
             "openness": -2,
             "conscientiousness": 0,
@@ -1580,7 +1580,7 @@ questions = [
         }
     },
     {
-        "question": "Cheat to get ahead.",
+        "question": "I cheat to get ahead.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1590,7 +1590,7 @@ questions = [
         }
     },
     {
-        "question": "Often forget to put things back in their proper place.",
+        "question": "I often forget to put things back in their proper place.",
         "effect": {
             "openness": 0,
             "conscientiousness": -2,
@@ -1600,7 +1600,7 @@ questions = [
         }
     },
     {
-        "question": "Feel desperate.",
+        "question": "I feel desperate.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1610,7 +1610,7 @@ questions = [
         }
     },
     {
-        "question": "Wait for others to lead the way.",
+        "question": "I wait for others to lead the way.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1620,7 +1620,7 @@ questions = [
         }
     },
     {
-        "question": "Seldom get emotional.",
+        "question": "I seldom get emotional.",
         "effect": {
             "openness": -3,
             "conscientiousness": 0,
@@ -1630,7 +1630,7 @@ questions = [
         }
     },
     {
-        "question": "Look down on others.",
+        "question": "I look down on others.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1640,7 +1640,7 @@ questions = [
         }
     },
     {
-        "question": "Break rules.",
+        "question": "I break rules.",
         "effect": {
             "openness": 0,
             "conscientiousness": -3,
@@ -1650,7 +1650,7 @@ questions = [
         }
     },
     {
-        "question": "Stumble over my words.",
+        "question": "I stumble over my words.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1660,7 +1660,7 @@ questions = [
         }
     },
     {
-        "question": "Like to take it easy.",
+        "question": "I like to take it easy.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1670,7 +1670,7 @@ questions = [
         }
     },
     {
-        "question": "Dislike changes.",
+        "question": "I dislike changes.",
         "effect": {
             "openness": -4,
             "conscientiousness": 0,
@@ -1680,7 +1680,7 @@ questions = [
         }
     },
     {
-        "question": "Love a good fight.",
+        "question": "I love a good fight.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1690,7 +1690,7 @@ questions = [
         }
     },
     {
-        "question": "Set high standards for myself and others.",
+        "question": "I set high standards for myself and others.",
         "effect": {
             "openness": 0,
             "conscientiousness": 4,
@@ -1700,7 +1700,7 @@ questions = [
         }
     },
     {
-        "question": "Rarely overindulge.",
+        "question": "I rarely overindulge.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1710,7 +1710,7 @@ questions = [
         }
     },
     {
-        "question": "Act wild and crazy.",
+        "question": "I act wild and crazy.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1720,7 +1720,7 @@ questions = [
         }
     },
     {
-        "question": "Am not interested in abstract ideas.",
+        "question": "I am not interested in abstract ideas.",
         "effect": {
             "openness": -5,
             "conscientiousness": 0,
@@ -1730,7 +1730,7 @@ questions = [
         }
     },
     {
-        "question": "Think highly of myself.",
+        "question": "I think highly of myself.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1740,7 +1740,7 @@ questions = [
         }
     },
     {
-        "question": "Find it difficult to get down to work.",
+        "question": "I find it difficult to get down to work.",
         "effect": {
             "openness": 0,
             "conscientiousness": -5,
@@ -1750,7 +1750,7 @@ questions = [
         }
     },
     {
-        "question": "Remain calm under pressure.",
+        "question": "I remain calm under pressure.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1760,7 +1760,7 @@ questions = [
         }
     },
     {
-        "question": "Look at the bright side of life.",
+        "question": "I look at the bright side of life.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1770,7 +1770,7 @@ questions = [
         }
     },
     {
-        "question": "Believe that too much tax money goes to support artists.",
+        "question": "I believe that too much tax money goes to support artists.",
         "effect": {
             "openness": -6,
             "conscientiousness": 0,
@@ -1780,7 +1780,7 @@ questions = [
         }
     },
     {
-        "question": "Tend to dislike soft-hearted people.",
+        "question": "I tend to dislike soft-hearted people.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1790,7 +1790,7 @@ questions = [
         }
     },
     {
-        "question": "Like to act on a whim.",
+        "question": "I like to act on a whim.",
         "effect": {
             "openness": 0,
             "conscientiousness": -6,
@@ -1800,7 +1800,7 @@ questions = [
         }
     },
     {
-        "question": "Am relaxed most of the time.",
+        "question": "I am relaxed most of the time.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1810,7 +1810,7 @@ questions = [
         }
     },
     {
-        "question": "Often feel uncomfortable around others.",
+        "question": "I often feel uncomfortable around others.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1820,7 +1820,7 @@ questions = [
         }
     },
     {
-        "question": "Seldom daydream.",
+        "question": "I seldom daydream.",
         "effect": {
             "openness": -1,
             "conscientiousness": 0,
@@ -1830,7 +1830,7 @@ questions = [
         }
     },
     {
-        "question": "Distrust people.",
+        "question": "I distrust people.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1840,7 +1840,7 @@ questions = [
         }
     },
     {
-        "question": "Misjudge situations.",
+        "question": "I misjudge situations.",
         "effect": {
             "openness": 0,
             "conscientiousness": -1,
@@ -1850,7 +1850,7 @@ questions = [
         }
     },
     {
-        "question": "Seldom get mad.",
+        "question": "I seldom get mad.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1860,7 +1860,7 @@ questions = [
         }
     },
     {
-        "question": "Want to be left alone.",
+        "question": "I want to be left alone.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1870,7 +1870,7 @@ questions = [
         }
     },
     {
-        "question": "Do not like poetry.",
+        "question": "I do not like poetry.",
         "effect": {
             "openness": -2,
             "conscientiousness": 0,
@@ -1880,7 +1880,7 @@ questions = [
         }
     },
     {
-        "question": "Put people under pressure.",
+        "question": "I put people under pressure.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1890,7 +1890,7 @@ questions = [
         }
     },
     {
-        "question": "Leave a mess in my room.",
+        "question": "I leave a mess in my room.",
         "effect": {
             "openness": 0,
             "conscientiousness": -2,
@@ -1900,7 +1900,7 @@ questions = [
         }
     },
     {
-        "question": "Feel that my life lacks direction.",
+        "question": "I feel that my life lacks direction.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1910,7 +1910,7 @@ questions = [
         }
     },
     {
-        "question": "Keep in the background.",
+        "question": "I keep in the background.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1920,7 +1920,7 @@ questions = [
         }
     },
     {
-        "question": "Am not easily affected by my emotions.",
+        "question": "I am not easily affected by my emotions.",
         "effect": {
             "openness": -3,
             "conscientiousness": 0,
@@ -1930,7 +1930,7 @@ questions = [
         }
     },
     {
-        "question": "Am indifferent to the feelings of others.",
+        "question": "I am indifferent to the feelings of others.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1940,7 +1940,7 @@ questions = [
         }
     },
     {
-        "question": "Break my promises.",
+        "question": "I break my promises.",
         "effect": {
             "openness": 0,
             "conscientiousness": -3,
@@ -1950,7 +1950,7 @@ questions = [
         }
     },
     {
-        "question": "Am not embarrassed easily.",
+        "question": "I am not embarrassed easily.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1960,7 +1960,7 @@ questions = [
         }
     },
     {
-        "question": "Like to take my time.",
+        "question": "I like to take my time.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1970,7 +1970,7 @@ questions = [
         }
     },
     {
-        "question": "Don't like the idea of change.",
+        "question": "I don't like the idea of change.",
         "effect": {
             "openness": -4,
             "conscientiousness": 0,
@@ -1980,7 +1980,7 @@ questions = [
         }
     },
     {
-        "question": "Yell at people.",
+        "question": "I yell at people.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -1990,7 +1990,7 @@ questions = [
         }
     },
     {
-        "question": "Demand quality.",
+        "question": "I demand quality.",
         "effect": {
             "openness": 0,
             "conscientiousness": 4,
@@ -2000,7 +2000,7 @@ questions = [
         }
     },
     {
-        "question": "Easily resist temptations.",
+        "question": "I easily resist temptations.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2010,7 +2010,7 @@ questions = [
         }
     },
     {
-        "question": "Willing to try anything once.",
+        "question": "I willing to try anything once.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2020,7 +2020,7 @@ questions = [
         }
     },
     {
-        "question": "Avoid philosophical discussions.",
+        "question": "I avoid philosophical discussions.",
         "effect": {
             "openness": -5,
             "conscientiousness": 0,
@@ -2030,7 +2030,7 @@ questions = [
         }
     },
     {
-        "question": "Have a high opinion of myself.",
+        "question": "I have a high opinion of myself.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2040,7 +2040,7 @@ questions = [
         }
     },
     {
-        "question": "Waste my time.",
+        "question": "I waste my time.",
         "effect": {
             "openness": 0,
             "conscientiousness": -5,
@@ -2050,7 +2050,7 @@ questions = [
         }
     },
     {
-        "question": "Can handle complex problems.",
+        "question": "I can handle complex problems.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2060,7 +2060,7 @@ questions = [
         }
     },
     {
-        "question": "Laugh aloud.",
+        "question": "I laugh aloud.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2070,7 +2070,7 @@ questions = [
         }
     },
     {
-        "question": "Believe laws should be strictly enforced.",
+        "question": "I believe laws should be strictly enforced.",
         "effect": {
             "openness": -6,
             "conscientiousness": 0,
@@ -2080,7 +2080,7 @@ questions = [
         }
     },
     {
-        "question": "Believe in an eye for an eye.",
+        "question": "I believe in an eye for an eye.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2090,7 +2090,7 @@ questions = [
         }
     },
     {
-        "question": "Rush into things.",
+        "question": "I rush into things.",
         "effect": {
             "openness": 0,
             "conscientiousness": -6,
@@ -2100,7 +2100,7 @@ questions = [
         }
     },
     {
-        "question": "Am not easily disturbed by events.",
+        "question": "I am not easily disturbed by events.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2110,7 +2110,7 @@ questions = [
         }
     },
     {
-        "question": "Avoid contacts with others.",
+        "question": "I avoid contacts with others.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2120,7 +2120,7 @@ questions = [
         }
     },
     {
-        "question": "Do not have a good imagination.",
+        "question": "I do not have a good imagination.",
         "effect": {
             "openness": -1,
             "conscientiousness": 0,
@@ -2130,7 +2130,7 @@ questions = [
         }
     },
     {
-        "question": "Suspect hidden motives in others.",
+        "question": "I suspect hidden motives in others.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2140,7 +2140,7 @@ questions = [
         }
     },
     {
-        "question": "Don't understand things.",
+        "question": "I don't understand things.",
         "effect": {
             "openness": 0,
             "conscientiousness": -1,
@@ -2150,7 +2150,7 @@ questions = [
         }
     },
     {
-        "question": "Am not easily annoyed.",
+        "question": "I am not easily annoyed.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2160,7 +2160,7 @@ questions = [
         }
     },
     {
-        "question": "Don't like crowded events.",
+        "question": "I don't like crowded events.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2170,7 +2170,7 @@ questions = [
         }
     },
     {
-        "question": "Do not enjoy going to art museums.",
+        "question": "I do not enjoy going to art museums.",
         "effect": {
             "openness": -2,
             "conscientiousness": 0,
@@ -2180,7 +2180,7 @@ questions = [
         }
     },
     {
-        "question": "Pretend to be concerned for others.",
+        "question": "I pretend to be concerned for others.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2190,7 +2190,7 @@ questions = [
         }
     },
     {
-        "question": "Leave my belongings around.",
+        "question": "I leave my belongings around.",
         "effect": {
             "openness": 0,
             "conscientiousness": -2,
@@ -2200,7 +2200,7 @@ questions = [
         }
     },
     {
-        "question": "Seldom feel blue.",
+        "question": "I seldom feel blue.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2210,7 +2210,7 @@ questions = [
         }
     },
     {
-        "question": "Have little to say.",
+        "question": "I have little to say.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2220,7 +2220,7 @@ questions = [
         }
     },
     {
-        "question": "Rarely notice my emotional reactions.",
+        "question": "I rarely notice my emotional reactions.",
         "effect": {
             "openness": -3,
             "conscientiousness": 0,
@@ -2230,7 +2230,7 @@ questions = [
         }
     },
     {
-        "question": "Make people feel uncomfortable.",
+        "question": "I make people feel uncomfortable.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2240,7 +2240,7 @@ questions = [
         }
     },
     {
-        "question": "Get others to do my duties.",
+        "question": "I get others to do my duties.",
         "effect": {
             "openness": 0,
             "conscientiousness": -3,
@@ -2250,7 +2250,7 @@ questions = [
         }
     },
     {
-        "question": "Am comfortable in unfamiliar situations.",
+        "question": "I am comfortable in unfamiliar situations.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2260,7 +2260,7 @@ questions = [
         }
     },
     {
-        "question": "Like a leisurely lifestyle.",
+        "question": "I like a leisurely lifestyle.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2270,7 +2270,7 @@ questions = [
         }
     },
     {
-        "question": "Am a creature of habit.",
+        "question": "I am a creature of habit.",
         "effect": {
             "openness": -4,
             "conscientiousness": 0,
@@ -2280,7 +2280,7 @@ questions = [
         }
     },
     {
-        "question": "Insult people.",
+        "question": "I insult people.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2290,7 +2290,7 @@ questions = [
         }
     },
     {
-        "question": "Am not highly motivated to succeed.",
+        "question": "I am not highly motivated to succeed.",
         "effect": {
             "openness": 0,
             "conscientiousness": -4,
@@ -2300,7 +2300,7 @@ questions = [
         }
     },
     {
-        "question": "Am able to control my cravings.",
+        "question": "I am able to control my cravings.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2310,7 +2310,7 @@ questions = [
         }
     },
     {
-        "question": "Seek danger.",
+        "question": "I seek danger.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2320,7 +2320,7 @@ questions = [
         }
     },
     {
-        "question": "Have difficulty understanding abstract ideas.",
+        "question": "I have difficulty understanding abstract ideas.",
         "effect": {
             "openness": -5,
             "conscientiousness": 0,
@@ -2330,7 +2330,7 @@ questions = [
         }
     },
     {
-        "question": "Know the answers to many questions.",
+        "question": "I know the answers to many questions.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2340,7 +2340,7 @@ questions = [
         }
     },
     {
-        "question": "Need a push to get started.",
+        "question": "I need a push to get started.",
         "effect": {
             "openness": 0,
             "conscientiousness": -5,
@@ -2350,7 +2350,7 @@ questions = [
         }
     },
     {
-        "question": "Know how to cope.",
+        "question": "I know how to cope.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2360,7 +2360,7 @@ questions = [
         }
     },
     {
-        "question": "Amuse my friends.",
+        "question": "I amuse my friends.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2370,7 +2370,7 @@ questions = [
         }
     },
     {
-        "question": "Believe that we coddle criminals too much.",
+        "question": "I believe that we coddle criminals too much.",
         "effect": {
             "openness": -6,
             "conscientiousness": 0,
@@ -2380,7 +2380,7 @@ questions = [
         }
     },
     {
-        "question": "Try not to think about the needy.",
+        "question": "I try not to think about the needy.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2390,7 +2390,7 @@ questions = [
         }
     },
     {
-        "question": "Do crazy things.",
+        "question": "I do crazy things.",
         "effect": {
             "openness": 0,
             "conscientiousness": -6,
@@ -2400,7 +2400,7 @@ questions = [
         }
     },
     {
-        "question": "Don't worry about things that have already happened.",
+        "question": "I don't worry about things that have already happened.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2410,7 +2410,7 @@ questions = [
         }
     },
     {
-        "question": "Am not really interested in others.",
+        "question": "I am not really interested in others.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2420,7 +2420,7 @@ questions = [
         }
     },
     {
-        "question": "Seldom get lost in thought.",
+        "question": "I seldom get lost in thought.",
         "effect": {
             "openness": -1,
             "conscientiousness": 0,
@@ -2430,7 +2430,7 @@ questions = [
         }
     },
     {
-        "question": "Am wary of others.",
+        "question": "I am wary of others.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2440,7 +2440,7 @@ questions = [
         }
     },
     {
-        "question": "Have little to contribute.",
+        "question": "I have little to contribute.",
         "effect": {
             "openness": 0,
             "conscientiousness": -1,
@@ -2450,7 +2450,7 @@ questions = [
         }
     },
     {
-        "question": "Keep my cool.",
+        "question": "I keep my cool.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2460,7 +2460,7 @@ questions = [
         }
     },
     {
-        "question": "Avoid crowds.",
+        "question": "I avoid crowds.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2470,7 +2470,7 @@ questions = [
         }
     },
     {
-        "question": "Do not like concerts.",
+        "question": "I do not like concerts.",
         "effect": {
             "openness": -2,
             "conscientiousness": 0,
@@ -2480,7 +2480,7 @@ questions = [
         }
     },
     {
-        "question": "Take advantage of others.",
+        "question": "I take advantage of others.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2490,7 +2490,7 @@ questions = [
         }
     },
     {
-        "question": "Am not bothered by messy people.",
+        "question": "I am not bothered by messy people.",
         "effect": {
             "openness": 0,
             "conscientiousness": -2,
@@ -2500,7 +2500,7 @@ questions = [
         }
     },
     {
-        "question": "Feel comfortable with myself.",
+        "question": "I feel comfortable with myself.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2510,7 +2510,7 @@ questions = [
         }
     },
     {
-        "question": "Don't like to draw attention to myself.",
+        "question": "I don't like to draw attention to myself.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2520,7 +2520,7 @@ questions = [
         }
     },
     {
-        "question": "Experience very few emotional highs and lows.",
+        "question": "I experience very few emotional highs and lows.",
         "effect": {
             "openness": -3,
             "conscientiousness": 0,
@@ -2530,7 +2530,7 @@ questions = [
         }
     },
     {
-        "question": "Turn my back on others.",
+        "question": "I turn my back on others.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2540,7 +2540,7 @@ questions = [
         }
     },
     {
-        "question": "Do the opposite of what is asked.",
+        "question": "I do the opposite of what is asked.",
         "effect": {
             "openness": 0,
             "conscientiousness": -3,
@@ -2550,7 +2550,7 @@ questions = [
         }
     },
     {
-        "question": "Am not bothered by difficult social situations.",
+        "question": "I am not bothered by difficult social situations.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2560,7 +2560,7 @@ questions = [
         }
     },
     {
-        "question": "Let things proceed at their own pace.",
+        "question": "I let things proceed at their own pace.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2570,7 +2570,7 @@ questions = [
         }
     },
     {
-        "question": "Dislike new foods.",
+        "question": "I dislike new foods.",
         "effect": {
             "openness": -4,
             "conscientiousness": 0,
@@ -2580,7 +2580,7 @@ questions = [
         }
     },
     {
-        "question": "Get back at others.",
+        "question": "I get back at others.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2590,7 +2590,7 @@ questions = [
         }
     },
     {
-        "question": "Do just enough work to get by.",
+        "question": "I do just enough work to get by.",
         "effect": {
             "openness": 0,
             "conscientiousness": -4,
@@ -2600,7 +2600,7 @@ questions = [
         }
     },
     {
-        "question": "Never spend more than I can afford.",
+        "question": "I never spend more than I can afford.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2610,7 +2610,7 @@ questions = [
         }
     },
     {
-        "question": "Would never go hang gliding or bungee jumping.",
+        "question": "I would never go hang gliding or bungee jumping.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2620,7 +2620,7 @@ questions = [
         }
     },
     {
-        "question": "Am not interested in theoretical discussions.",
+        "question": "I am not interested in theoretical discussions.",
         "effect": {
             "openness": -5,
             "conscientiousness": 0,
@@ -2630,7 +2630,7 @@ questions = [
         }
     },
     {
-        "question": "Boast about my virtues.",
+        "question": "I boast about my virtues.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2640,7 +2640,7 @@ questions = [
         }
     },
     {
-        "question": "Have difficulty starting tasks.",
+        "question": "I have difficulty starting tasks.",
         "effect": {
             "openness": 0,
             "conscientiousness": -5,
@@ -2650,7 +2650,7 @@ questions = [
         }
     },
     {
-        "question": "Readily overcome setbacks.",
+        "question": "I readily overcome setbacks.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2660,7 +2660,7 @@ questions = [
         }
     },
     {
-        "question": "Am not easily amused.",
+        "question": "I am not easily amused.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2670,7 +2670,7 @@ questions = [
         }
     },
     {
-        "question": "Believe that we should be tough on crime.",
+        "question": "I believe that we should be tough on crime.",
         "effect": {
             "openness": -6,
             "conscientiousness": 0,
@@ -2680,7 +2680,7 @@ questions = [
         }
     },
     {
-        "question": "Believe people should fend for themselves.",
+        "question": "I believe people should fend for themselves.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2690,7 +2690,7 @@ questions = [
         }
     },
     {
-        "question": "Act without thinking.",
+        "question": "I act without thinking.",
         "effect": {
             "openness": 0,
             "conscientiousness": -6,
@@ -2700,7 +2700,7 @@ questions = [
         }
     },
     {
-        "question": "Adapt easily to new situations.",
+        "question": "I adapt easily to new situations.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2710,7 +2710,7 @@ questions = [
         }
     },
     {
-        "question": "Keep others at a distance.",
+        "question": "I keep others at a distance.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2720,7 +2720,7 @@ questions = [
         }
     },
     {
-        "question": "Have difficulty imagining things.",
+        "question": "I have difficulty imagining things.",
         "effect": {
             "openness": -1,
             "conscientiousness": 0,
@@ -2730,7 +2730,7 @@ questions = [
         }
     },
     {
-        "question": "Believe that people are essentially evil.",
+        "question": "I believe that people are essentially evil.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2740,7 +2740,7 @@ questions = [
         }
     },
     {
-        "question": "Don't see the consequences of things.",
+        "question": "I don't see the consequences of things.",
         "effect": {
             "openness": 0,
             "conscientiousness": -1,
@@ -2750,7 +2750,7 @@ questions = [
         }
     },
     {
-        "question": "Rarely complain.",
+        "question": "I rarely complain.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2760,7 +2760,7 @@ questions = [
         }
     },
     {
-        "question": "Seek quiet.",
+        "question": "I seek quiet.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2770,7 +2770,7 @@ questions = [
         }
     },
     {
-        "question": "Do not enjoy watching dance performances.",
+        "question": "I do not enjoy watching dance performances.",
         "effect": {
             "openness": -2,
             "conscientiousness": 0,
@@ -2780,7 +2780,7 @@ questions = [
         }
     },
     {
-        "question": "Obstruct others' plans.",
+        "question": "I obstruct others' plans.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2790,7 +2790,7 @@ questions = [
         }
     },
     {
-        "question": "Am not bothered by disorder.",
+        "question": "I am not bothered by disorder.",
         "effect": {
             "openness": 0,
             "conscientiousness": -2,
@@ -2800,7 +2800,7 @@ questions = [
         }
     },
     {
-        "question": "Am very pleased with myself.",
+        "question": "I am very pleased with myself.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2810,7 +2810,7 @@ questions = [
         }
     },
     {
-        "question": "Hold back my opinions.",
+        "question": "I hold back my opinions.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2820,7 +2820,7 @@ questions = [
         }
     },
     {
-        "question": "Don't understand people who get emotional.",
+        "question": "I don't understand people who get emotional.",
         "effect": {
             "openness": -3,
             "conscientiousness": 0,
@@ -2830,7 +2830,7 @@ questions = [
         }
     },
     {
-        "question": "Take no time for others.",
+        "question": "I take no time for others.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2840,7 +2840,7 @@ questions = [
         }
     },
     {
-        "question": "Misrepresent the facts.",
+        "question": "I misrepresent the facts.",
         "effect": {
             "openness": 0,
             "conscientiousness": -3,
@@ -2850,7 +2850,7 @@ questions = [
         }
     },
     {
-        "question": "Am able to stand up for myself.",
+        "question": "I am able to stand up for myself.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2860,7 +2860,7 @@ questions = [
         }
     },
     {
-        "question": "React slowly.",
+        "question": "I react slowly.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2870,7 +2870,7 @@ questions = [
         }
     },
     {
-        "question": "Am attached to conventional ways.",
+        "question": "I am attached to conventional ways.",
         "effect": {
             "openness": -4,
             "conscientiousness": 0,
@@ -2880,7 +2880,7 @@ questions = [
         }
     },
     {
-        "question": "Hold a grudge.",
+        "question": "I hold a grudge.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2890,7 +2890,7 @@ questions = [
         }
     },
     {
-        "question": "Put little time and effort into my work.",
+        "question": "I put little time and effort into my work.",
         "effect": {
             "openness": 0,
             "conscientiousness": -4,
@@ -2900,7 +2900,7 @@ questions = [
         }
     },
     {
-        "question": "Never splurge.",
+        "question": "I never splurge.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2910,7 +2910,7 @@ questions = [
         }
     },
     {
-        "question": "Dislike loud music.",
+        "question": "I dislike loud music.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2920,7 +2920,7 @@ questions = [
         }
     },
     {
-        "question": "Avoid difficult reading material.",
+        "question": "I avoid difficult reading material.",
         "effect": {
             "openness": -5,
             "conscientiousness": 0,
@@ -2930,7 +2930,7 @@ questions = [
         }
     },
     {
-        "question": "Make myself the center of attention.",
+        "question": "I make myself the center of attention.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2940,7 +2940,7 @@ questions = [
         }
     },
     {
-        "question": "Postpone decisions.",
+        "question": "I postpone decisions.",
         "effect": {
             "openness": 0,
             "conscientiousness": -5,
@@ -2950,7 +2950,7 @@ questions = [
         }
     },
     {
-        "question": "Am calm even in tense situations.",
+        "question": "I am calm even in tense situations.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2960,7 +2960,7 @@ questions = [
         }
     },
     {
-        "question": "Seldom joke around.",
+        "question": "I seldom joke around.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2970,7 +2970,7 @@ questions = [
         }
     },
     {
-        "question": "Like to stand during the national anthem.",
+        "question": "I like to stand during the national anthem.",
         "effect": {
             "openness": -6,
             "conscientiousness": 0,
@@ -2980,7 +2980,7 @@ questions = [
         }
     },
     {
-        "question": "Can't stand weak people.",
+        "question": "I can't stand weak people.",
         "effect": {
             "openness": 0,
             "conscientiousness": 0,
@@ -2990,7 +2990,7 @@ questions = [
         }
     },
     {
-        "question": "Often make last-minute plans.",
+        "question": "I often make last-minute plans.",
         "effect": {
             "openness": 0,
             "conscientiousness": -6,
@@ -2999,4 +2999,4 @@ questions = [
             "neuroticism": 0
         }
     }
-];
+].sort(() => Math.random() - Math.random()).slice(0, 100);
