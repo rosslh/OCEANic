@@ -90,6 +90,7 @@
             Resilient
         </div>
     </div>
+    <h2 id="personalityType"></h2>
     <img src="" id="banner">
     <button class="button" onclick="location.href='index.html';" style="background-color: #2196f3;">Back</button> <br>
     <script>
@@ -113,14 +114,14 @@
             }
         }
         curious = getQueryVariable("o")
-        carefree = getQueryVariable("c")
+        organized = getQueryVariable("c")
         outgoing = getQueryVariable("e")
-        competitive = getQueryVariable("a")
-        sensitive = getQueryVariable("a")
+        sympathetic = getQueryVariable("a")
+        sensitive = getQueryVariable("n")
         prudent = (100 - curious).toFixed(1)
-        organized = (100 - carefree).toFixed(1)
+        carefree = (100 - organized).toFixed(1)
         reserved = (100 - outgoing).toFixed(1)
-        sympathetic = (100 - competitive).toFixed(1)
+        competitive = (100 - sympathetic).toFixed(1)
         resilient = (100 - sensitive).toFixed(1)
 
         setBarValue("curious", curious)
@@ -222,8 +223,9 @@
             const resultLabel = `Personality type: ${curious > prudent ? "C" : "P"}${organized > carefree ? "O" : "C"}${outgoing > reserved ? "O" : "R"}${sympathetic > competitive ? "S" : "C"}${sensitive > resilient ? "S" : "R"}`
 
             ctx.font = "300 30px Montserrat"
-            ctx.fillText("OCEANic.github.io", 780, 60)
+            ctx.fillText("rosslh.github.io/OCEANic", 780, 60)
             ctx.fillText(resultLabel, 780, 95)
+            document.getElementById("personalityType").innerText = resultLabel;
             ctx.textAlign = "center"
 
             document.getElementById("banner").src = c.toDataURL();
