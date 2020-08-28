@@ -770,7 +770,7 @@ questions = [
         }
     },
     {
-        "question": "I interested in many things.",
+        "question": "I am interested in many things.",
         "effect": {
             "openness": 4,
             "conscientiousness": 0,

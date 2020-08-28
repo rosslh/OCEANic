@@ -2,12 +2,8 @@
     <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,700|Roboto:400,700" rel="stylesheet">
     <link href='style.css' rel='stylesheet' type='text/css'>
     <title>OCEANic Results</title>
-    <link rel="icon" type="x-icon" href="icon.png">
-    <link rel="shortcut icon" type="x-icon" href="icon.png">
     <meta charset="utf-8">
 </head>
-<!-- <script type="application/javascript" src="ideologies.js"> -->
-</script>
 
 <body>
     <h1>OCEANic</h1>
@@ -94,35 +90,35 @@
     <img src="" id="banner">
     <button class="button" onclick="location.href='index.html';" style="background-color: #2196f3;">Back</button> <br>
     <script>
-        function getQueryVariable(variable) {
-            var query = window.location.search.substring(1)
-            var vars = query.split("&")
-            for (var i = 0; i < vars.length; i++) {
-                var pair = vars[i].split("=")
-                if (pair[0] == variable) { return pair[1] }
+        function getQueryVariable(key) {
+            const query = window.location.search.substring(1)
+            const vars = query.split("&")
+            for (let i = 0; i < vars.length; i++) {
+                const pair = vars[i].split("=")
+                if (pair[0] == key) { return pair[1] }
             }
             return (NaN);
         }
 
         function setBarValue(name, value) {
-            innerel = document.getElementById(name)
-            outerel = document.getElementById("bar-" + name)
+            const innerel = document.getElementById(name)
+            const outerel = document.getElementById("bar-" + name)
             outerel.style.width = (value + "%")
             innerel.innerHTML = (value + "%")
             if (innerel.offsetWidth + 20 > outerel.offsetWidth) {
                 innerel.style.visibility = "hidden"
             }
         }
-        curious = getQueryVariable("o")
-        organized = getQueryVariable("c")
-        outgoing = getQueryVariable("e")
-        sympathetic = getQueryVariable("a")
-        sensitive = getQueryVariable("n")
-        prudent = (100 - curious).toFixed(1)
-        carefree = (100 - organized).toFixed(1)
-        reserved = (100 - outgoing).toFixed(1)
-        competitive = (100 - sympathetic).toFixed(1)
-        resilient = (100 - sensitive).toFixed(1)
+        const curious = getQueryVariable("o")
+        const organized = getQueryVariable("c")
+        const outgoing = getQueryVariable("e")
+        const sympathetic = getQueryVariable("a")
+        const sensitive = getQueryVariable("n")
+        const prudent = (100 - curious).toFixed(1)
+        const carefree = (100 - organized).toFixed(1)
+        const reserved = (100 - outgoing).toFixed(1)
+        const competitive = (100 - sympathetic).toFixed(1)
+        const resilient = (100 - sensitive).toFixed(1)
 
         setBarValue("curious", curious)
         setBarValue("prudent", prudent)
@@ -136,8 +132,8 @@
         setBarValue("resilient", resilient)
 
         window.onload = function () {
-            var c = document.createElement("canvas")
-            var ctx = c.getContext("2d")
+            const c = document.createElement("canvas")
+            const ctx = c.getContext("2d")
             c.width = 800;
             c.height = 840;
             ctx.fillStyle = "#EEEEEE"

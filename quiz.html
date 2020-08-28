@@ -2,8 +2,6 @@
     <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,700|Roboto:400,700" rel="stylesheet">
     <link href='style.css' rel='stylesheet' type='text/css'>
     <title>OCEANic Quiz</title>
-    <link rel="icon" type="x-icon" href="icon.png">
-    <link rel="shortcut icon" type="x-icon" href="icon.png">
     <meta charset="utf-8">
 </head>
 
@@ -25,14 +23,14 @@
 
     <!-- JavaScript for the test itself -->
     <script>
-        var max_openness, max_conscientiousness, max_extraversion, max_agreeableness, max_neuroticism; // Max possible scores
+        let max_openness, max_conscientiousness, max_extraversion, max_agreeableness, max_neuroticism; // Max possible scores
         max_openness = max_conscientiousness = max_extraversion = max_agreeableness = max_neuroticism = 0;
-        var openness, conscientiousness, extraversion, agreeableness, neuroticism; // User's scores
+        let openness, conscientiousness, extraversion, agreeableness, neuroticism; // User's scores
         openness = conscientiousness = extraversion = agreeableness = neuroticism = 0;
-        var qn = 0; // Question number
-        var prev_answer = null;
+        let qn = 0; // Question number
+        let prev_answer = null;
         init_question();
-        for (var i = 0; i < questions.length; i++) {
+        for (let i = 0; i < questions.length; i++) {
             max_openness += Math.abs(questions[i].effect.openness)
             max_conscientiousness += Math.abs(questions[i].effect.conscientiousness)
             max_extraversion += Math.abs(questions[i].effect.extraversion)
@@ -52,14 +50,14 @@
 
         }
 
-        function next_question(mult) {
-            openness += mult * questions[qn].effect.openness
-            conscientiousness += mult * questions[qn].effect.conscientiousness
-            extraversion += mult * questions[qn].effect.extraversion
-            agreeableness += mult * questions[qn].effect.agreeableness
-            neuroticism += mult * questions[qn].effect.neuroticism
+        function next_question(multiplier) {
+            openness += multiplier * questions[qn].effect.openness
+            conscientiousness += multiplier * questions[qn].effect.conscientiousness
+            extraversion += multiplier * questions[qn].effect.extraversion
+            agreeableness += multiplier * questions[qn].effect.agreeableness
+            neuroticism += multiplier * questions[qn].effect.neuroticism
             qn++;
-            prev_answer = mult;
+            prev_answer = multiplier;
             if (qn < questions.length) {
                 init_question();
             } else {
